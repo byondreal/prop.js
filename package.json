@@ -1,0 +1,25 @@
+{
+  "name": "@byondreal/prop.js",
+  "version": "1.0.0",
+  "description": "Simple jQuery style property getter and setter for JavaScript objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/byondreal/prop.js"
+  },
+  "keywords": [
+    "property",
+    "getter",
+    "setter",
+    "factory"
+  ],
+  "author": "ByondReal Dev <dev@byondreal.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/byondreal/prop.js/issues"
+  },
+  "homepage": "https://github.com/byondreal/prop.js"
+}
