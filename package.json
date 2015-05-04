@@ -1,5 +1,5 @@
 {
-  "name": "@byondreal/prop.js",
+  "name": "@byondreal/prop",
   "version": "1.0.0",
   "description": "Simple jQuery style property getter and setter for JavaScript objects",
   "main": "index.js",
